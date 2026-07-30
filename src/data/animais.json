@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "nome": "Bolinha",
+    "fotos": ["https://placedog.net/300?id=1"]
+  },
+  {
+    "id": 2,
+    "nome": "Rex",
+    "fotos": ["https://placedog.net/300?id=2"]
+  },
+  {
+    "id": 3,
+    "nome": "Mimi",
+    "fotos": ["https://placedog.net/300?id=3"]
+  }
+]
