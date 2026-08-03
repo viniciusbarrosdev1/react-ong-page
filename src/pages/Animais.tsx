@@ -1,5 +1,5 @@
 import animais from "../data/animais.json";
-import AnimalCard from "../components/AnimalCard.jsx";
+import AnimalCard from "../components/AnimalCard";
 
 function Animais() {
   return (
